@@ -1,4 +1,6 @@
 Belajar javascript Framework
 -Jquery
 -React
--Nodejs
+-Angular
+Framework php
+-Codeigtner
