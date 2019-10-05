@@ -1,3 +1,4 @@
 Belajar javascript Framework
--React Js
--Node Js
+-Jquery
+-React
+-Nodejs
