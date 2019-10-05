@@ -2,3 +2,5 @@ Belajar javascript Framework
 -Jquery
 -React
 -Nodejs
+framework php
+-Laravel
